@@ -10,6 +10,6 @@ The relevant java file is /src/gui/Grid.java, which is the JPanel that draws the
 
 The rest of the files are simply there to make this work as a demo so you can see how the world looks like. Inside /src/simulation/Simulation.java, you can adjust the number of hexes (by changing world size X and Y) and the number of agents and ticks (rounds). If you want to increase the size of a hexagon, adjust the HEXSIZE variable inside the Grid class.
 
-Screenshot:
+Screenshot of a 10x10 hex map with 13 yellow agents, moving randomly:
 
 ![Screenshot of hexagons](hex_snap.PNG?raw=true "10x10 Hexagons")
