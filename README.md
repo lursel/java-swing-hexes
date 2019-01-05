@@ -2,7 +2,7 @@
 
 This is a bare-bones implementation of hexagonial tiles in a 2D environment using JavaSwing.
 
-I have included some basic function of generating, placing and moving agents on a topological map.
+I have included some basic function of generating, placing and moving agents on a topological map. I use an axial coordinate system and as default the offset-to-right map layout.
 
 The implementation is based on Red Blob Games <a href="https://www.redblobgames.com/grids/hexagons/">fantastic guide on hexagonal grids</a>.
 
